@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ec85177-e653-4c40-b0fd-294dcbc2e36c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="0156e86a-76b5-414f-ac11-6ff028286c29" />
+  <component name="ProjectId" id="1iEviHFW3uYLYsvWWav8NkxBqzM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/terrain_overlay.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="rob501_fall_2020_assignment_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\samlo\.conda\envs\rob501\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/templates" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/templates/terrain_overlay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ec85177-e653-4c40-b0fd-294dcbc2e36c" name="Default Changelist" comment="" />
+      <created>1601485690498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601485690498</updated>
+      <workItem from="1601485692119" duration="3282000" />
+      <workItem from="1601668716967" duration="10842000" />
+      <workItem from="1601940980128" duration="4216000" />
+      <workItem from="1601945705551" duration="12785000" />
+      <workItem from="1601989659214" duration="2064000" />
+      <workItem from="1602091863433" duration="46000" />
+      <workItem from="1602102734847" duration="13840000" />
+      <workItem from="1602164844589" duration="600000" />
+      <workItem from="1602248489216" duration="122000" />
+      <workItem from="1602358681820" duration="5431000" />
+      <workItem from="1602419312736" duration="206000" />
+      <workItem from="1602461547921" duration="4744000" />
+      <workItem from="1602468222581" duration="1281000" />
+      <workItem from="1602469528113" duration="106000" />
+      <workItem from="1602469652115" duration="1271000" />
+      <workItem from="1602471075255" duration="718000" />
+      <workItem from="1602595298629" duration="237000" />
+      <workItem from="1602860095555" duration="700000" />
+      <workItem from="1602950523206" duration="740000" />
+      <workItem from="1602959955605" duration="11000" />
+      <workItem from="1604257369189" duration="203000" />
+      <workItem from="1625437010901" duration="1498000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602465220014">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602115156530" />
+    <state x="2334" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1602465220014" />
+    <state x="740" y="299" key="FileChooserDialogImpl" timestamp="1602419514300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="299" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602419514300" />
+    <state width="1877" height="178" key="GridCell.Tab.0.bottom" timestamp="1602472803357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="178" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602472803357" />
+    <state width="1877" height="270" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602366116192" />
+    <state width="1877" height="178" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1602468191015" />
+    <state width="1877" height="178" key="GridCell.Tab.0.center" timestamp="1602472803356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="178" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602472803356" />
+    <state width="1877" height="270" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602366116192" />
+    <state width="1877" height="178" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1602468191014" />
+    <state width="1877" height="178" key="GridCell.Tab.0.left" timestamp="1602472803356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="178" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602472803356" />
+    <state width="1877" height="270" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602366116192" />
+    <state width="1877" height="178" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1602468191014" />
+    <state width="1877" height="178" key="GridCell.Tab.0.right" timestamp="1602472803357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="178" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602472803357" />
+    <state width="1877" height="270" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602366116192" />
+    <state width="1877" height="178" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1602468191014" />
+    <state width="1877" height="270" key="GridCell.Tab.1.bottom" timestamp="1602366116194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="270" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602366116194" />
+    <state width="1877" height="270" key="GridCell.Tab.1.center" timestamp="1602366116192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="270" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602366116192" />
+    <state width="1877" height="270" key="GridCell.Tab.1.left" timestamp="1602366116192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="270" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602366116192" />
+    <state width="1877" height="270" key="GridCell.Tab.1.right" timestamp="1602366116194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="270" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602366116194" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1601672959169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601672959169" />
+    <state x="0" y="89" width="1014" height="710" key="dock-window-1" timestamp="1601945804030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="89" width="1014" height="710" key="dock-window-1/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601945804030" />
+    <state x="2307" y="-8" width="1014" height="710" maximized="true" key="dock-window-2" timestamp="1601949451714">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2307" y="-8" width="1014" height="710" maximized="true" key="dock-window-2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601949451714" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="coords" />
+        <watch expression="coords" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rob501_fall_2020_assignment_01$main.coverage" NAME="main Coverage Results" MODIFIED="1601488812867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/templates" />
+    <SUITE FILE_PATH="coverage/dlt_homography_py$main.coverage" NAME="main Coverage Results" MODIFIED="1602471090880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/templates" />
+  </component>
+</project>
